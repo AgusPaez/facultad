@@ -1,0 +1,14 @@
+.cartelContainer{
+    border: 1px color solid #15adb3;
+    padding: 10px;
+    margin: 10% 10px 10px 47%;
+    border-radius: 18px;
+    background-color: rgb(50, 124, 189);
+    cursor: pointer;
+    width: 125px;
+    height: 40;
+}
+
+.cartelContainer:hover{
+    background-color: rgba(33, 105, 168, 0.753) ;
+}
